@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=기쥬르&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=kijul&fontSize=90" />
 
