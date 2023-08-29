@@ -18,7 +18,5 @@ Here are some ideas to get you started:
   #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamnotegoist&show_icons=true&theme=buefy)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamnotegoist&layout=compact&theme=tokyonight)
-  
 </div>
 
