@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <summary>I am</summary>
 <div markdown="1">
   
-- Computer engineering & electronic engineering major at HGU(~~학점은 비밀..~~)
+- Computer engineering & electronic engineering major at HGU
 - Certificates acquired
   - Engineer Electricity
   - Engineer Electricity Work
