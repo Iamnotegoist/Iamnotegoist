@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0%:'EEFF00',100%:'a82da8'&height=100&section=header&fontSize=90" />
 
 ## 😎 who are you?
-- Computer engineering & electronic engineering major at HGU (Grade : ~~2.6 / 4.5~~)
+- Computer engineering & electronic engineering major at HGU(~~학점은 비밀..~~)
 - Certificates acquired
   - Engineer Electricity
   - Engineer Electricity Work
-  - Korean History Test (Grade: 1 / Patriot)
-- Certificate in preparation : Engineer Information Processing(이걸 먼저 딸걸..)
-- 
+  - Korean History Test (1급 / ~~애국자~~)
+- Certificate in preparation : Engineer Information Processing(~~이걸 먼저 딸걸.. 24년 1회차 준비중..~~)
+- timeline
+  - 2023.01 ~ 2023.06 : kt ds university 웹 개발 교육 이수
+  - 2023.06 ~ : 대한민국의 모 중소기업 재직
+
+
+## 
