@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0%:'EEFF00',100%:'a82da8'&height=100&section=header&fontSize=90" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0%:'EEFF00',100%:'a82da8'&height=100&section=header&fontSize=90" />
 
-### 1st Year Full Stack Junior Developer
+## 😎 who are you?
+- Computer engineering & electronic engineering major at HGU (Grade : ~~2.6 / 4.5~~)
+- Certificates acquired
+  - Engineer Electricity
+  - Engineer Electricity Work
+  - Korean History Test (Grade: 1 / Patriot)
+- Certificate in preparation : Engineer Information Processing(이걸 먼저 딸걸..)
+- 
