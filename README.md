@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0%:'EEFF00',100%:'a82da8'&height=100&section=header&fontSize=90" />
 
-## 😎 who are you?
+<div align="center">
+  
+  ## 🐶happychopin🐶
+  
+</div>
+
 <details>
 <summary>I am</summary>
 <div markdown="1">
