@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0%:'EEFF00',100%:'a82da8'&height=100&section=header&fontSize=90" />
-
 <div align="center">
   
   ## 🐶happychopin🐶
