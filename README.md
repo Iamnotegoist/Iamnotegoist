@@ -20,23 +20,3 @@ Here are some ideas to get you started:
   ## 🐶happychopin🐶
   
 </div>
-
-<details>
-<summary>I am</summary>
-<div markdown="1">
-  
-- Computer engineering & electronic engineering major at HGU
-- Certificates acquired
-  - Engineer Electricity
-  - Engineer Electricity Work
-  - Korean History Test (1급 / ~~애국자~~)
-- Certificate in preparation
-  - Engineer Information Processing(~~이걸 먼저 딸걸.. 24년 1회차 준비중..~~)
-- timeline
-  - 2023.01 ~ 2023.06 : kt ds university 웹 개발 교육 이수
-  - 2023.06 ~ : 모 중소기업에서 개발중
-
-</div>
-</details>
-
-## 
