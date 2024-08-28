@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
   ## 🐶wtbhcdev🐶
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiju9512)](https://solved.ac/kiju9512/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wtbhcdev)](https://solved.ac/kiju9512/)
 
   
 </div>
